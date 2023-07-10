@@ -32,8 +32,8 @@ const songslist =[
     {
         name: 'Có em',
         singer:'Madihu,LowG',
-        path:'../assets/music/song1.mp3',
-        image:'../assets/img/song1.jpg'
+        path:'./assets/music/song1.mp3',
+        image:'./assets/img/song1.jpg'
     },
     {
         name: 'OK',
