@@ -9,7 +9,7 @@
 8. Active song
 9. Scroll active song into view
 10. Play song when click  
-
+//debug 10/7/2023
 */
 
 const $=document.querySelector.bind(document)
